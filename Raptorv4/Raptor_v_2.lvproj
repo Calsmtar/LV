@@ -86,7 +86,6 @@
 		<Item Name="ros2.vi" Type="VI" URL="../PC/ROS/ros2.vi"/>
 		<Item Name="LOGGER.vi" Type="VI" URL="../PC/LOGGER.vi"/>
 		<Item Name="MANIPULATOR STER PID.vi" Type="VI" URL="../PC/MANIPULATOR STER PID.vi"/>
-		<Item Name="Untitled 2.vi" Type="VI" URL="../Untitled 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
