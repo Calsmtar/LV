@@ -86,6 +86,7 @@
 		<Item Name="ros2.vi" Type="VI" URL="../PC/ROS/ros2.vi"/>
 		<Item Name="LOGGER.vi" Type="VI" URL="../PC/LOGGER.vi"/>
 		<Item Name="MANIPULATOR STER PID.vi" Type="VI" URL="../PC/MANIPULATOR STER PID.vi"/>
+		<Item Name="Untitled 2.vi" Type="VI" URL="../Untitled 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
@@ -410,11 +411,6 @@
 				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
 				<Item Name="lvpidtkt.dll" Type="Document" URL="/&lt;vilib&gt;/addons/control/pid/lvpidtkt.dll"/>
 				<Item Name="Query Input Devices.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Query Input Devices.vi"/>
-				<Item Name="DTbl Digital Size.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Digital Size.vi"/>
-				<Item Name="DTbl Compress Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Compress Digital.vi"/>
-				<Item Name="DTbl Boolean Array to Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Boolean Array to Digital.vi"/>
-				<Item Name="DWDT Boolean Array to Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDTOps.llb/DWDT Boolean Array to Digital.vi"/>
-				<Item Name="Boolean Array to Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDT.llb/Boolean Array to Digital.vi"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Sick LMS 2XX Series.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/Sick LMS 2XX Series/HAIOL/Sick LMS 2XX Series.lvclass"/>
@@ -1762,10 +1758,10 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="ramki konfiguracyjne.ctl" Type="VI" URL="../PC/ramki konfiguracyjne.ctl"/>
-			<Item Name="Serial - Settings.ctl" Type="VI" URL="/../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Instrument IO/Serial/support/Serial - Settings.ctl"/>
-			<Item Name="Serial - XON-XOFF Characters.ctl" Type="VI" URL="/../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Instrument IO/Serial/support/Serial - XON-XOFF Characters.ctl"/>
-			<Item Name="Serial - ASCII Characters.ctl" Type="VI" URL="/../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Instrument IO/Serial/support/Serial - ASCII Characters.ctl"/>
 			<Item Name="NI-Embedded CAN for RIO subVI - CAN Frame to Table1.vi" Type="VI" URL="../PC/NI-Embedded CAN for RIO subVI - CAN Frame to Table1.vi"/>
+			<Item Name="Serial - Settings.ctl" Type="VI" URL="/../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Instrument IO/Serial/support/Serial - Settings.ctl"/>
+			<Item Name="Serial - ASCII Characters.ctl" Type="VI" URL="/../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Instrument IO/Serial/support/Serial - ASCII Characters.ctl"/>
+			<Item Name="Serial - XON-XOFF Characters.ctl" Type="VI" URL="/../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Instrument IO/Serial/support/Serial - XON-XOFF Characters.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="My Real-Time Application" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
