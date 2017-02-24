@@ -1,28 +1,51 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="15008000">
-	<Property Name="varPersistentID:{10B5B70A-6FE7-4E2D-AF68-85C46A774C34}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/CAN frame odbiór</Property>
 	<Property Name="varPersistentID:{185E65D1-55B0-4679-8384-F921C8AFA440}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/czas</Property>
 	<Property Name="varPersistentID:{3307951B-0CFA-4629-B083-CD69804E0E3A}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/temperatura</Property>
+	<Property Name="varPersistentID:{3C321B50-B4B2-493F-AC7B-28A5CA9067BC}" Type="Ref">/sbRIO9636/FPGA.lvlib/ramki konf</Property>
+	<Property Name="varPersistentID:{3E687DC1-72FF-48E1-BF92-B3B7C3FD678A}" Type="Ref">/sbRIO9636/stare/Biblio na.lvlib/can2</Property>
+	<Property Name="varPersistentID:{42EFFC35-ABA5-43A6-9C4D-82CDE739C739}" Type="Ref">/sbRIO9636/FPGA.lvlib/Total (%)</Property>
+	<Property Name="varPersistentID:{4970A755-C04B-43D7-9DD9-D51DA6B604FB}" Type="Ref">/sbRIO9636/stare/Biblio na.lvlib/czas</Property>
+	<Property Name="varPersistentID:{4D9B6502-7A13-4D33-B41A-A99694EC7950}" Type="Ref">/sbRIO9636/stare/Biblio na.lvlib/CAN konfig_2</Property>
 	<Property Name="varPersistentID:{4ECE42BB-2387-44DA-B2D9-B83E17754DFB}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/can1</Property>
 	<Property Name="varPersistentID:{59A838EE-A4A3-45B0-8ED6-389F06003229}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/status</Property>
 	<Property Name="varPersistentID:{66482362-D72E-4A38-A28E-0B6A4904FE85}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/SAFETY ON</Property>
+	<Property Name="varPersistentID:{69E564E3-2387-48AE-91A6-7C6EB33B01D4}" Type="Ref">/sbRIO9636/FPGA.lvlib/value</Property>
+	<Property Name="varPersistentID:{6D440E7D-8F14-4968-9EE3-C4AC7D5BEA6B}" Type="Ref">/sbRIO9636/stare/Biblio na.lvlib/can1</Property>
 	<Property Name="varPersistentID:{6DB78A57-5E02-4282-8CEA-8D5812D6F7ED}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/System Reset</Property>
 	<Property Name="varPersistentID:{713D96B7-263D-4A47-97CF-79BEA2F120F3}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/Przestarza3a data</Property>
+	<Property Name="varPersistentID:{72362100-5F8A-44FA-BAF8-62B9A49C5274}" Type="Ref">/sbRIO9636/FPGA.lvlib/wlacz watchdoga</Property>
+	<Property Name="varPersistentID:{7240F34F-543A-409B-8CC7-888458CC5EAD}" Type="Ref">/sbRIO9636/stare/Biblio na.lvlib/output cluster</Property>
 	<Property Name="varPersistentID:{796B4208-CAA4-4DC3-B37C-953DE1CC471B}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/can2</Property>
 	<Property Name="varPersistentID:{7DB32171-3036-4CA6-B26D-EA3B536DE89D}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/STOP ??</Property>
-	<Property Name="varPersistentID:{83CF6672-659F-48DF-AA9B-18FC9F4715E9}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/Przód</Property>
+	<Property Name="varPersistentID:{7FC12F1B-C990-4AF8-8F0E-40995AE0653D}" Type="Ref">/sbRIO9636/FPGA.lvlib/SAFETY ON</Property>
+	<Property Name="varPersistentID:{89E2AAC9-B2C2-43D7-B03A-2530952E203A}" Type="Ref">/sbRIO9636/stare/Biblio na.lvlib/indeks</Property>
 	<Property Name="varPersistentID:{91194EEC-59D4-453C-9322-6FE41C2600C4}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/ramki konf</Property>
 	<Property Name="varPersistentID:{958A696A-8500-4676-9020-909A84AA117A}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/value</Property>
 	<Property Name="varPersistentID:{964453EC-72A0-4BAA-AE7B-3CAB1A3F0632}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/czas2</Property>
 	<Property Name="varPersistentID:{9D0E7C7C-19EA-4C3E-B309-2166FF57771A}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/okres wg</Property>
+	<Property Name="varPersistentID:{A03F6088-85AE-4AAA-80D1-2747910A9C7F}" Type="Ref">/sbRIO9636/FPGA.lvlib/STOP ??</Property>
+	<Property Name="varPersistentID:{A2C115A0-94E2-46A6-A344-E583CB4A8E57}" Type="Ref">/sbRIO9636/FPGA.lvlib/ramki jazdy</Property>
+	<Property Name="varPersistentID:{A67DCCFC-BA46-4833-81D6-91B4D19DC733}" Type="Ref">/sbRIO9636/stare/Biblio na.lvlib/status</Property>
 	<Property Name="varPersistentID:{A6A57BB5-D0D0-4A05-B563-2BCCEEE86566}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/CAN konfig_2</Property>
+	<Property Name="varPersistentID:{A6BA1047-EC0E-401A-9D7F-3C56B1422E2E}" Type="Ref">/sbRIO9636/FPGA.lvlib/okres wg</Property>
+	<Property Name="varPersistentID:{A890A284-E91A-4429-840B-017E7E0F5A03}" Type="Ref">/sbRIO9636/FPGA.lvlib/temperatura</Property>
+	<Property Name="varPersistentID:{B14BF866-10DC-448B-A33A-6EFF9D730938}" Type="Ref">/sbRIO9636/FPGA.lvlib/RESET STM</Property>
 	<Property Name="varPersistentID:{B59ED163-9A9B-40F2-8975-A0BE3E743D65}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/output cluster</Property>
 	<Property Name="varPersistentID:{B5C1F222-A21C-4FC1-ACA5-F6CA648EB784}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/RESET STM</Property>
+	<Property Name="varPersistentID:{B5ED5008-E76F-4866-9C05-0FE827E2C029}" Type="Ref">/sbRIO9636/stare/Biblio na.lvlib/czas2</Property>
+	<Property Name="varPersistentID:{B714C080-0C77-4B0D-AD3D-43E55BA3377A}" Type="Ref">/sbRIO9636/FPGA.lvlib/System Reset</Property>
 	<Property Name="varPersistentID:{B99B3214-2D75-44C1-B361-945822D2D45C}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/Elapsed Time (s)</Property>
+	<Property Name="varPersistentID:{BEC8C16A-BA96-4B02-8DC9-E1BAB64CDC7C}" Type="Ref">/sbRIO9636/FPGA.lvlib/Elapsed Time (s)</Property>
+	<Property Name="varPersistentID:{C3C757EA-04B6-4971-9D5D-1D3D08B2E23B}" Type="Ref">/sbRIO9636/stare/Biblio na.lvlib/Przód</Property>
 	<Property Name="varPersistentID:{CC286764-058F-4F6C-84E4-47C6069866B2}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/wlacz watchdoga</Property>
+	<Property Name="varPersistentID:{D20A0E76-F032-439F-83C9-54E9FD65FD59}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/Przód</Property>
+	<Property Name="varPersistentID:{D7DC2F7D-A060-4B1C-AADA-D5290B50D3D4}" Type="Ref">/sbRIO9636/FPGA.lvlib/Przestarza3a data</Property>
+	<Property Name="varPersistentID:{D86ADCC7-5169-418D-BB4D-0CDD8F358FD9}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/CAN frame odbiór</Property>
 	<Property Name="varPersistentID:{E6C06076-85E9-4787-9B39-76D6FB792053}" Type="Ref">/NI-sbRIO9636-01A93195/stare/Biblio na.lvlib/indeks</Property>
 	<Property Name="varPersistentID:{EAEADADF-497C-4334-A377-7B7E96C5DA85}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/ramki jazdy</Property>
 	<Property Name="varPersistentID:{F77E2A13-ED74-4123-BCF5-188BFB25525E}" Type="Ref">/NI-sbRIO9636-01A93195/FPGA.lvlib/Total (%)</Property>
+	<Property Name="varPersistentID:{FBBCB629-4674-4012-8D76-87B079F445F1}" Type="Ref">/sbRIO9636/stare/Biblio na.lvlib/CAN frame odbiór</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="DisableAutoDeployVariables" Type="Bool">true</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -47,7 +70,7 @@
 		<Item Name="CAN sub" Type="Folder">
 			<Item Name="axis to can.vi" Type="VI" URL="../RT/axis to can.vi"/>
 			<Item Name="check can.vi" Type="VI" URL="../RT/check can.vi"/>
-			<Item Name="NI-Embedded CAN for RIO subVI - CAN Frame to Table test.vi" Type="VI" URL="../PC/NI-Embedded CAN for RIO subVI - CAN Frame to Table test.vi"/>
+			<Item Name="RIO CAN Frame to Table on PC.vi" Type="VI" URL="../PC/RIO CAN Frame to Table on PC.vi"/>
 		</Item>
 		<Item Name="subvi" Type="Folder">
 			<Item Name="Manipulator PWM-y.vi" Type="VI" URL="../PC/Manipulator PWM-y.vi"/>
@@ -71,7 +94,10 @@
 			<Item Name="MANIPULATOR STER PID.vi" Type="VI" URL="../PC/MANIPULATOR STER PID.vi"/>
 			<Item Name="LOGGER.vi" Type="VI" URL="../PC/LOGGER.vi"/>
 			<Item Name="Przelicz ROS-a.vi" Type="VI" URL="../PC/Przelicz ROS-a.vi"/>
-			<Item Name="add timestamp.vi" Type="VI" URL="../PC/add timestamp.vi"/>
+			<Item Name="add timestamp to drive.vi" Type="VI" URL="../PC/add timestamp to drive.vi"/>
+			<Item Name="ikona_rapotrs (1).ico" Type="Document" URL="../../../Downloads/ikona_rapotrs (1).ico"/>
+			<Item Name="skladanie bitow manipulator.vi" Type="VI" URL="../PC/skladanie bitow manipulator.vi"/>
+			<Item Name="add timestamp to arm.vi" Type="VI" URL="../PC/add timestamp to arm.vi"/>
 		</Item>
 		<Item Name="Main ctrl" Type="Folder">
 			<Item Name="Queue message.ctl" Type="VI" URL="../PC/Queue message.ctl"/>
@@ -90,6 +116,7 @@
 			<Item Name="rosmaster.vi" Type="VI" URL="../PC/ROS/rosmaster.vi"/>
 			<Item Name="lv-ros-bridge_WRITE.vi" Type="VI" URL="../PC/lv-ros-bridge-master/lv-ros-bridge_WRITE.vi"/>
 			<Item Name="lv-ros-bridge_READ.vi" Type="VI" URL="../PC/lv-ros-bridge-master/lv-ros-bridge_READ.vi"/>
+			<Item Name="test ros webs handshake.vi" Type="VI" URL="../test ros webs handshake.vi"/>
 		</Item>
 		<Item Name="Queues" Type="Folder">
 			<Item Name="Queue add.vi" Type="VI" URL="../PC/Queue add.vi"/>
@@ -98,10 +125,13 @@
 			<Item Name="Queue destroy.vi" Type="VI" URL="../PC/Queue destroy.vi"/>
 			<Item Name="Queue init.vi" Type="VI" URL="../PC/Queue init.vi"/>
 		</Item>
+		<Item Name="pierdoly" Type="Folder">
+			<Item Name="testy 3dconnectionn.vi" Type="VI" URL="../PC/testy 3dconnectionn.vi"/>
+			<Item Name="testy 3dconnection.vi" Type="VI" URL="../PC/testy 3dconnection.vi"/>
+		</Item>
 		<Item Name="Main PC Station.vi" Type="VI" URL="../PC/Main PC Station.vi"/>
-		<Item Name="testy 3dconnectionn.vi" Type="VI" URL="../PC/testy 3dconnectionn.vi"/>
-		<Item Name="testy 3dconnection.vi" Type="VI" URL="../PC/testy 3dconnection.vi"/>
-		<Item Name="ikona_rapotrs (1).ico" Type="Document" URL="../../../Downloads/ikona_rapotrs (1).ico"/>
+		<Item Name="set time on rio.vi" Type="VI" URL="../SBRIO100/set time on rio.vi"/>
+		<Item Name="WebSockets.lvlib" Type="Library" URL="/&lt;vilib&gt;/Intelligent Energy/WebSockets API/WebSockets/WebSockets.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
@@ -155,7 +185,6 @@
 				<Item Name="Read Meta Data (TCP Ref).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Read Meta Data (TCP Ref).vi"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
-				<Item Name="WebSockets.lvlib" Type="Library" URL="/&lt;vilib&gt;/Intelligent Energy/WebSockets API/WebSockets/WebSockets.lvlib"/>
 				<Item Name="ClearError.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tdmsutil.llb/ClearError.vi"/>
 				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
@@ -431,12 +460,12 @@
 				<Item Name="DTbl Boolean Array to Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Boolean Array to Digital.vi"/>
 				<Item Name="DWDT Boolean Array to Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDTOps.llb/DWDT Boolean Array to Digital.vi"/>
 				<Item Name="Boolean Array to Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDT.llb/Boolean Array to Digital.vi"/>
-				<Item Name="nisyscfg.lvlib" Type="Library" URL="/&lt;vilib&gt;/nisyscfg/nisyscfg.lvlib"/>
 				<Item Name="LMH-Xbox-One-Controller.lvlib" Type="Library" URL="/&lt;vilib&gt;/MakerHub/Xbox-One-Controller/LMH-Xbox-One-Controller.lvlib"/>
 				<Item Name="parse_i32_array.vi" Type="VI" URL="/&lt;vilib&gt;/Tufts CEEO ROS for LabVIEW Software/ROS/MessageParsing/std_msgs/subs/parse_i32_array.vi"/>
 				<Item Name="parse_i32_scalar.vi" Type="VI" URL="/&lt;vilib&gt;/Tufts CEEO ROS for LabVIEW Software/ROS/MessageParsing/std_msgs/subs/parse_i32_scalar.vi"/>
 				<Item Name="parse_int32.vi" Type="VI" URL="/&lt;vilib&gt;/Tufts CEEO ROS for LabVIEW Software/ROS/MessageParsing/std_msgs/parse_int32.vi"/>
 				<Item Name="NI_3D Picture Control.lvlib" Type="Library" URL="/&lt;vilib&gt;/picture/3D Picture Control/NI_3D Picture Control.lvlib"/>
+				<Item Name="nisyscfg.lvlib" Type="Library" URL="/&lt;vilib&gt;/nisyscfg/nisyscfg.lvlib"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Sick LMS 2XX Series.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/Sick LMS 2XX Series/HAIOL/Sick LMS 2XX Series.lvclass"/>
@@ -465,9 +494,6 @@
 			<Item Name="Digital Waveform Chart maker.vi" Type="VI" URL="../../edge det/Digital Waveform Chart maker.vi"/>
 			<Item Name="Untitled 4 (SubVI).vi" Type="VI" URL="../PC/Untitled 4 (SubVI).vi"/>
 			<Item Name="Message Cluster.ctl" Type="VI" URL="../../../Documents/LabVIEW Data/Untitled Project 2/support/Message Queue/Message Cluster.ctl"/>
-			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="My Zip File" Type="Zip File">
@@ -509,7 +535,7 @@
 				<Property Name="Destination[1].path" Type="Path">../RAPTORS/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/ikona_rapotrs (1).ico</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/subvi/ikona_rapotrs (1).ico</Property>
 				<Property Name="Source[0].itemID" Type="Str">{A822BB3C-99F1-4BD9-8A88-4BF0AD01E894}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
@@ -609,6 +635,9 @@ AddOutputFilter chunkFilter
 		<Item Name="CAN" Type="Folder">
 			<Item Name="Untitled 4 (SubVI).vi" Type="VI" URL="../../kody labview/raptor41/Raptorv4/Users/K/Desktop/Untitled 4 (SubVI).vi"/>
 		</Item>
+		<Item Name="ctl" Type="Folder">
+			<Item Name="Enum nastawy.ctl" Type="VI" URL="../RT/Enum nastawy.ctl"/>
+		</Item>
 		<Item Name="stare" Type="Folder">
 			<Item Name="RT_Main.vi" Type="VI" URL="../RT/RT_Main.vi"/>
 			<Item Name="Biblio na.lvlib" Type="Library" URL="../RT/Biblio na.lvlib"/>
@@ -627,11 +656,8 @@ AddOutputFilter chunkFilter
 			<Item Name="can_speed.vi" Type="VI" URL="../RT/can_speed.vi"/>
 			<Item Name="Auto Nastawy.vi" Type="VI" URL="../RT/Auto Nastawy.vi"/>
 		</Item>
-		<Item Name="ctl" Type="Folder">
-			<Item Name="Enum nastawy.ctl" Type="VI" URL="../RT/Enum nastawy.ctl"/>
-		</Item>
-		<Item Name="Main RT.vi" Type="VI" URL="../RT/Main RT.vi"/>
 		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA/FPGA.lvlib"/>
+		<Item Name="Main RT.vi" Type="VI" URL="../RT/Main RT.vi"/>
 		<Item Name="Chassis" Type="sbRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
@@ -1763,10 +1789,11 @@ AddOutputFilter chunkFilter
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="CANFrameControl.ctl" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANFrameControl.ctl"/>
-				<Item Name="CANCreateInterface.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANCreateInterface.vi"/>
-				<Item Name="CANStatusToError.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANStatusToError.vi"/>
-				<Item Name="CANRead.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANRead.vi"/>
-				<Item Name="CANCloseInterface.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANCloseInterface.vi"/>
+				<Item Name="NI_PtbyPt.lvlib" Type="Library" URL="/&lt;vilib&gt;/ptbypt/NI_PtbyPt.lvlib"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_Real-Time Target Support.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI_Real-Time Target Support.lvlib"/>
+				<Item Name="NI_VariableUtilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Variable/NI_VariableUtilities.lvlib"/>
+				<Item Name="Error to Warning.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error to Warning.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
@@ -1798,38 +1825,34 @@ AddOutputFilter chunkFilter
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
-				<Item Name="CANFlush.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANFlush.vi"/>
-				<Item Name="NI_PtbyPt.lvlib" Type="Library" URL="/&lt;vilib&gt;/ptbypt/NI_PtbyPt.lvlib"/>
-				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="ni_tagger_lv_FlushAllConnections.vi" Type="VI" URL="/&lt;vilib&gt;/variable/tagger/ni_tagger_lv_FlushAllConnections.vi"/>
-				<Item Name="NI_VariableUtilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Variable/NI_VariableUtilities.lvlib"/>
-				<Item Name="CANWrite.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANWrite.vi"/>
-				<Item Name="CANStop.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANStop.vi"/>
-				<Item Name="CANStart.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANStart.vi"/>
-				<Item Name="Error to Warning.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error to Warning.vi"/>
-				<Item Name="NI_Real-Time Target Support.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI_Real-Time Target Support.lvlib"/>
-				<Item Name="ni_emb.dll" Type="Document" URL="/&lt;vilib&gt;/ni_emb.dll"/>
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
 				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
-				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
-				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="NMEA API.lvlib" Type="Library" URL="/&lt;vilib&gt;/robotics/Protocols/NMEA/NMEA API.lvlib"/>
+				<Item Name="CANCreateInterface.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANCreateInterface.vi"/>
+				<Item Name="CANStatusToError.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANStatusToError.vi"/>
+				<Item Name="CANStart.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANStart.vi"/>
+				<Item Name="CANRead.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANRead.vi"/>
+				<Item Name="CANWrite.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANWrite.vi"/>
+				<Item Name="CANFlush.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANFlush.vi"/>
+				<Item Name="CANStop.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANStop.vi"/>
+				<Item Name="CANCloseInterface.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANCloseInterface.vi"/>
+				<Item Name="ni_emb.dll" Type="Document" URL="/&lt;vilib&gt;/ni_emb.dll"/>
+				<Item Name="ni_tagger_lv_FlushAllConnections.vi" Type="VI" URL="/&lt;vilib&gt;/variable/tagger/ni_tagger_lv_FlushAllConnections.vi"/>
 				<Item Name="NI_Robotics Utilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/robotics/Utilities/NI_Robotics Utilities.lvlib"/>
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
-			</Item>
-			<Item Name="rioembeddedcanlvapi.dll" Type="Document" URL="rioembeddedcanlvapi.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="nitaglv.dll" Type="Document" URL="nitaglv.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="ramki konfiguracyjne.ctl" Type="VI" URL="../PC/ramki konfiguracyjne.ctl"/>
-			<Item Name="NI-Embedded CAN for RIO subVI - CAN Frame to Table1.vi" Type="VI" URL="../PC/NI-Embedded CAN for RIO subVI - CAN Frame to Table1.vi"/>
-			<Item Name="Timestamp for data.vi" Type="VI" URL="../PC/Timestamp for data.vi"/>
+			<Item Name="rioembeddedcanlvapi.dll" Type="Document" URL="rioembeddedcanlvapi.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="RIO CAN Frame to Table.vi" Type="VI" URL="../RT/RIO CAN Frame to Table.vi"/>
+			<Item Name="nitaglv.dll" Type="Document" URL="nitaglv.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="RoboRaptor" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -1848,7 +1871,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8BCD239C-970A-4D2A-A9D4-001A9CA102D5}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/c/ni-rt/startup</Property>
-				<Property Name="Bld_version.build" Type="Int">20</Property>
+				<Property Name="Bld_version.build" Type="Int">25</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/c/ni-rt/startup/startup.rtexe</Property>
@@ -1859,7 +1882,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Destination[1].path" Type="Path">/c/ni-rt/startup/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{9AE70AC6-EDD6-4207-8B05-344CE217955E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{937E5B11-7D7E-491E-BF5D-DC552406F2AA}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/NI-sbRIO9636-01A93195/Main RT.vi</Property>
@@ -1885,6 +1908,7 @@ AddOutputFilter chunkFilter
 		<Property Name="host.ResponsivenessCheckPingTimeout" Type="UInt">1000</Property>
 		<Property Name="host.TargetCPUID" Type="UInt">2</Property>
 		<Property Name="host.TargetOSID" Type="UInt">14</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
@@ -1953,6 +1977,33 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
+		<Item Name="CAN" Type="Folder">
+			<Item Name="Untitled 4 (SubVI).vi" Type="VI" URL="../../kody labview/raptor41/Raptorv4/Users/K/Desktop/Untitled 4 (SubVI).vi"/>
+		</Item>
+		<Item Name="ctl" Type="Folder">
+			<Item Name="Enum nastawy.ctl" Type="VI" URL="../RT/Enum nastawy.ctl"/>
+		</Item>
+		<Item Name="stare" Type="Folder">
+			<Item Name="RT_Main.vi" Type="VI" URL="../RT/RT_Main.vi"/>
+			<Item Name="Biblio na.lvlib" Type="Library" URL="../RT/Biblio na.lvlib"/>
+		</Item>
+		<Item Name="vi" Type="Folder">
+			<Item Name="Odbior danych z PC .vi" Type="VI" URL="../FPGA/Odbior danych z PC .vi"/>
+			<Item Name="Wysyllanie danych do PC .vi" Type="VI" URL="../FPGA/Wysyllanie danych do PC .vi"/>
+			<Item Name="RT Global References.vi" Type="VI" URL="../RT/RT Global References.vi"/>
+			<Item Name="RT status FPGA Monitoring.vi" Type="VI" URL="../RT/RT status FPGA Monitoring.vi"/>
+			<Item Name="Pet Watchdog.vi" Type="VI" URL="../FPGA/Pet Watchdog.vi"/>
+			<Item Name="monitor_odczytZpc.vi" Type="VI" URL="../RT/monitor_odczytZpc.vi"/>
+			<Item Name="TEStY UDP SPEED.vi" Type="VI" URL="../RT/TEStY UDP SPEED.vi"/>
+			<Item Name="Rozbijanie_NMEA_v1.1.vi" Type="VI" URL="../RT/Rozbijanie_NMEA_v1.1.vi"/>
+			<Item Name="telemetria3.vi" Type="VI" URL="../PC/telemetria3.vi"/>
+			<Item Name="rs232.vi" Type="VI" URL="../RT/rs232.vi"/>
+			<Item Name="can_speed.vi" Type="VI" URL="../RT/can_speed.vi"/>
+			<Item Name="Auto Nastawy.vi" Type="VI" URL="../RT/Auto Nastawy.vi"/>
+		</Item>
+		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA/FPGA.lvlib"/>
+		<Item Name="Main RT.vi" Type="VI" URL="../RT/Main RT.vi"/>
+		<Item Name="timestamp.vi" Type="VI" URL="../SBRIO100/timestamp.vi"/>
 		<Item Name="Chassis" Type="sbRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
@@ -2975,33 +3026,150 @@ AddOutputFilter chunkFilter
 					<Property Name="NI.LV.FPGA.Valid" Type="Bool">true</Property>
 					<Property Name="NI.LV.FPGA.Version" Type="Int">5</Property>
 				</Item>
+				<Item Name="Main FPGA.vi" Type="VI" URL="../FPGA/Main FPGA.vi">
+					<Property Name="BuildSpec" Type="Str">{408FAD37-85DD-4B51-8FAC-916B73B9B2FF}</Property>
+					<Property Name="configString.guid" Type="Str">{02B8CA32-FBFC-4B11-823F-C6D6976F01A7}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector0/DIO2;0;ReadMethodType=bool;WriteMethodType=bool{1226FEE3-C2D7-4F34-9165-CE7612385BC0}"ControlLogic=0;NumberOfElements=1023;Type=2;ReadArbs=Arbitrate if Multiple Requestors Only;ElementsPerRead=1;WriteArbs=Arbitrate if Multiple Requestors Only;ElementsPerWrite=1;Implementation=2;FIFO Target to Host DMA;DataType=100080000000000100094002000349313600010000000000000000;DisableOnOverflowUnderflow=FALSE"{1C709F3D-D2AA-4F4B-BAEC-061A00066C1C}"ControlLogic=0;NumberOfElements=1029;Type=1;ReadArbs=Arbitrate if Multiple Requestors Only;ElementsPerRead=1;WriteArbs=Arbitrate if Multiple Requestors Only;ElementsPerWrite=1;Implementation=2;FIFO Host to Target DMA;DataType=100080000000000100094002000349313600010000000000000000;DisableOnOverflowUnderflow=FALSE"{1CF8446E-0609-4076-B48C-C059E30738E0}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO12;0;ReadMethodType=bool;WriteMethodType=bool{203DECA9-E16A-4A63-8C9C-7CBB5B969A20}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO22;0;ReadMethodType=bool;WriteMethodType=bool{2096DA20-316E-47DB-BE46-01B1C48B9634}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector0/DIO3;0;ReadMethodType=bool;WriteMethodType=bool{22F8CDDC-C833-4A59-892C-8FC3E2BB676D}resource=/Connector0/AI1;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{2D7C8D1B-57AC-47A0-95D8-9E63BE1020C0}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO10;0;ReadMethodType=bool;WriteMethodType=bool{2DA96C6E-7E86-4663-9AAA-C70D34772F29}resource=/Connector0/AI4;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{2DFE23A5-82F3-4DA5-B0D0-32410F848F4A}resource=/Connector0/AI10;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{30D2ADE8-8C03-445B-A4A2-E8059467ABE8}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO24;0;ReadMethodType=bool;WriteMethodType=bool{3513DBC6-722E-415A-9B02-BAF459ECCDCB}resource=/Connector0/AI6;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{378F3CF6-BA49-41D3-A271-9E895036DB2D}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO19;0;ReadMethodType=bool;WriteMethodType=bool{39620E71-23B2-4B26-B95D-43AB252DEBA9}resource=/Connector0/AI7;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{3DF8947F-9A22-47C9-BDC5-F4D9D69B561E}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO18;0;ReadMethodType=bool;WriteMethodType=bool{3E171F26-364E-488B-902B-6C49B1714948}resource=/FPGA LED;0;ReadMethodType=bool;WriteMethodType=bool{44E32C2C-52A1-4E8B-B9F0-70E7863395D9}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO23;0;ReadMethodType=bool;WriteMethodType=bool{4DD37582-FFBD-4DB2-B8A7-FC74E8CDBF15}resource=/Connector0/AO0;0;WriteMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_20_5.ctl{4EF564F5-1E6C-4436-BE3D-426095D00E4B}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector0/DIO0;0;ReadMethodType=bool;WriteMethodType=bool{50EEDAC5-A383-4CBA-A2D3-D9E1D50F556F}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO13;0;ReadMethodType=bool;WriteMethodType=bool{52907CF1-382E-4E08-9AD9-84023F850BBF}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO4;0;ReadMethodType=bool;WriteMethodType=bool{55AE32E3-03F7-4CFC-ABA9-AFBCE7FEAD99}resource=/Connector0/AI12;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{5C75228B-71EB-4AB1-BDF7-41C86040DBEB}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO11;0;ReadMethodType=bool;WriteMethodType=bool{64C0A080-1702-483A-81E9-24FB18712B17}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO17;0;ReadMethodType=bool;WriteMethodType=bool{673947DC-2752-43B1-B55C-65A2BE66C81C}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO9;0;ReadMethodType=bool;WriteMethodType=bool{6BE333FF-02A0-4625-AD58-04AFC4E73B0C}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO21;0;ReadMethodType=bool;WriteMethodType=bool{6C024A75-3EA7-4983-BC85-A38CBF05D7DD}resource=/Scan Clock;0;ReadMethodType=bool{71AF6134-087D-4AF1-9E11-5A4E309EB898}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO6;0;ReadMethodType=bool;WriteMethodType=bool{795CCB46-4873-40D1-BD5F-9565E3699DBD}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO7;0;ReadMethodType=bool;WriteMethodType=bool{797FF8D5-50F0-412A-8C0A-E165A1EB2D30}resource=/Connector0/AO2;0;WriteMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_20_5.ctl{7A467CD3-F7EB-450F-9818-43B65AACC9BC}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO14;0;ReadMethodType=bool;WriteMethodType=bool{838A4AEA-001F-4EBE-B3EA-C6C71A6E0E04}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO26;0;ReadMethodType=bool;WriteMethodType=bool{942B5B03-962D-48E4-843C-8BC227E0CA54}resource=/Connector0/AI11;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{9F228C41-0A9B-4C45-A34F-2A47FC0AF06D}resource=/Connector0/AI8;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{A00F27FB-D860-404B-B8AF-AD1F7CC2B688}resource=/Connector0/AO1;0;WriteMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_20_5.ctl{AB87856C-DD97-48DC-90A7-5D8837E807A1}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector0/DIO1;0;ReadMethodType=bool;WriteMethodType=bool{AD8A1D7B-BBE3-4E96-A534-A8CCB1AE0F3E}resource=/Chassis Temperature;0;ReadMethodType=i16{ADA8974B-B7F7-4524-BCB0-16C69A569141}resource=/Connector0/AI5;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{B53609B1-5688-4EA8-BA2C-B6CDF4707958}resource=/Connector0/AI9;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{BA21B0EE-8CF7-4508-92E6-F33E94471A5A}resource=/Connector0/AI15;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{C4851451-4127-45D0-999A-8FA7CB627963}resource=/Connector0/AI14;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{C99232CC-669A-4F4F-A1ED-EFC78472951F}resource=/System Reset;0;ReadMethodType=bool;WriteMethodType=bool{D6EB9D7C-CF1A-42F4-8817-D0922C2AF621}resource=/Connector0/AI2;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{D94ED8FB-5496-4408-824F-0444A9235275}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO15;0;ReadMethodType=bool;WriteMethodType=bool{DCDB632D-8EC2-4802-99D3-D51C9D283E7A}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO25;0;ReadMethodType=bool;WriteMethodType=bool{E31E2CD6-761D-48C7-AF42-3B46C778CFF6}ResourceName=40 MHz Onboard Clock;TopSignalConnect=Clk40;ClockSignalName=Clk40;MinFreq=40000000,000000;MaxFreq=40000000,000000;VariableFreq=0;NomFreq=40000000,000000;PeakPeriodJitter=250,000000;MinDutyCycle=50,000000;MaxDutyCycle=50,000000;Accuracy=100,000000;RunTime=0;SpreadSpectrum=0;GenericDataHash=D41D8CD98F00B204E9800998ECF8427E;{E4BEAD5E-B6BF-4D40-B6F8-8B86DCE879F0}resource=/Connector0/AI13;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{E5FF969D-8880-4FED-BF3F-54A98D56D377}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO27;0;ReadMethodType=bool;WriteMethodType=bool{E94C6BDC-458B-4BB9-93F5-A670E75D5F92}resource=/Connector0/AI3;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctl{EECF0068-C695-4458-89A4-6F54C3400148}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO8;0;ReadMethodType=bool;WriteMethodType=bool{EEEED4AF-556E-4A3D-9095-61D7D9724275}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO5;0;ReadMethodType=bool;WriteMethodType=bool{EFE29EE1-9D07-4F2B-9ABB-CC5D690ECC24}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO20;0;ReadMethodType=bool;WriteMethodType=bool{F36AE2B0-D529-49D9-AFBF-580A243D82E3}resource=/Connector0/AO3;0;WriteMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_20_5.ctl{F593529E-8801-45BE-B6D7-99AF4FDEFA89}ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO16;0;ReadMethodType=bool;WriteMethodType=bool{FE170B74-27FA-4B11-A81E-D62BE189B37B}resource=/Connector0/AI0;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlsbRIO-9636/Clk40/falsefalseFPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSSBRIO_9636FPGA_TARGET_FAMILYSPARTAN6TARGET_TYPEFPGA</Property>
+					<Property Name="configString.name" Type="Str">40 MHz Onboard ClockResourceName=40 MHz Onboard Clock;TopSignalConnect=Clk40;ClockSignalName=Clk40;MinFreq=40000000,000000;MaxFreq=40000000,000000;VariableFreq=0;NomFreq=40000000,000000;PeakPeriodJitter=250,000000;MinDutyCycle=50,000000;MaxDutyCycle=50,000000;Accuracy=100,000000;RunTime=0;SpreadSpectrum=0;GenericDataHash=D41D8CD98F00B204E9800998ECF8427E;AI0resource=/Connector0/AI0;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI10resource=/Connector0/AI10;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI11resource=/Connector0/AI11;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI12resource=/Connector0/AI12;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI13resource=/Connector0/AI13;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI14resource=/Connector0/AI14;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI15resource=/Connector0/AI15;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI1resource=/Connector0/AI1;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI2resource=/Connector0/AI2;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI3resource=/Connector0/AI3;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI4resource=/Connector0/AI4;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI5resource=/Connector0/AI5;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI6resource=/Connector0/AI6;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI7resource=/Connector0/AI7;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI8resource=/Connector0/AI8;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAI9resource=/Connector0/AI9;Terminal Mode=RSE;Voltage Range=10V;0;ReadMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_24_5.ctlAO0resource=/Connector0/AO0;0;WriteMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_20_5.ctlAO1resource=/Connector0/AO1;0;WriteMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_20_5.ctlAO2resource=/Connector0/AO2;0;WriteMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_20_5.ctlAO3resource=/Connector0/AO3;0;WriteMethodType=vi.lib\LabVIEW Targets\FPGA\cRIO\shared\nicrio_FXP_Controls\nicrio_FXP_S_20_5.ctlChassis Temperatureresource=/Chassis Temperature;0;ReadMethodType=i16DIO0ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector0/DIO0;0;ReadMethodType=bool;WriteMethodType=boolDIO10ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO10;0;ReadMethodType=bool;WriteMethodType=boolDIO11ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO11;0;ReadMethodType=bool;WriteMethodType=boolDIO12ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO12;0;ReadMethodType=bool;WriteMethodType=boolDIO13ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO13;0;ReadMethodType=bool;WriteMethodType=boolDIO14ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO14;0;ReadMethodType=bool;WriteMethodType=boolDIO15ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO15;0;ReadMethodType=bool;WriteMethodType=boolDIO16ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO16;0;ReadMethodType=bool;WriteMethodType=boolDIO17ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO17;0;ReadMethodType=bool;WriteMethodType=boolDIO18ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO18;0;ReadMethodType=bool;WriteMethodType=boolDIO19ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO19;0;ReadMethodType=bool;WriteMethodType=boolDIO1ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector0/DIO1;0;ReadMethodType=bool;WriteMethodType=boolDIO20ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO20;0;ReadMethodType=bool;WriteMethodType=boolDIO21ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO21;0;ReadMethodType=bool;WriteMethodType=boolDIO22ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO22;0;ReadMethodType=bool;WriteMethodType=boolDIO23ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO23;0;ReadMethodType=bool;WriteMethodType=boolDIO24ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO24;0;ReadMethodType=bool;WriteMethodType=boolDIO25ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO25;0;ReadMethodType=bool;WriteMethodType=boolDIO26ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO26;0;ReadMethodType=bool;WriteMethodType=boolDIO27ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO27;0;ReadMethodType=bool;WriteMethodType=boolDIO2ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector0/DIO2;0;ReadMethodType=bool;WriteMethodType=boolDIO3ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector0/DIO3;0;ReadMethodType=bool;WriteMethodType=boolDIO4ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO4;0;ReadMethodType=bool;WriteMethodType=boolDIO5ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO5;0;ReadMethodType=bool;WriteMethodType=boolDIO6ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO6;0;ReadMethodType=bool;WriteMethodType=boolDIO7ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO7;0;ReadMethodType=bool;WriteMethodType=boolDIO8ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO8;0;ReadMethodType=bool;WriteMethodType=boolDIO9ArbitrationForOutputData=NeverArbitrate;ArbitrationForOutputEnable=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;NumberOfSyncRegistersForOutputEnable=1;NumberOfSyncRegistersForReadInProject=Auto;resource=/Connector1/DIO9;0;ReadMethodType=bool;WriteMethodType=boolFIFO Host to Target DMA"ControlLogic=0;NumberOfElements=1029;Type=1;ReadArbs=Arbitrate if Multiple Requestors Only;ElementsPerRead=1;WriteArbs=Arbitrate if Multiple Requestors Only;ElementsPerWrite=1;Implementation=2;FIFO Host to Target DMA;DataType=100080000000000100094002000349313600010000000000000000;DisableOnOverflowUnderflow=FALSE"FIFO Target to Host DMA"ControlLogic=0;NumberOfElements=1023;Type=2;ReadArbs=Arbitrate if Multiple Requestors Only;ElementsPerRead=1;WriteArbs=Arbitrate if Multiple Requestors Only;ElementsPerWrite=1;Implementation=2;FIFO Target to Host DMA;DataType=100080000000000100094002000349313600010000000000000000;DisableOnOverflowUnderflow=FALSE"FPGA LEDresource=/FPGA LED;0;ReadMethodType=bool;WriteMethodType=boolsbRIO-9636/Clk40/falsefalseFPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSSBRIO_9636FPGA_TARGET_FAMILYSPARTAN6TARGET_TYPEFPGAScan Clockresource=/Scan Clock;0;ReadMethodType=boolSystem Resetresource=/System Reset;0;ReadMethodType=bool;WriteMethodType=bool</Property>
+					<Property Name="NI.LV.FPGA.InterfaceBitfile" Type="Str">C:\Users\Kacper\Desktop\Raptorv4\FPGA Bitfiles\Raptorv2_FPGATarget2_MainFPGA_uNHDVAQ-+Uo.lvbitx</Property>
+				</Item>
 				<Item Name="IP Builder" Type="IP Builder Target">
 					<Item Name="Dependencies" Type="Dependencies"/>
 					<Item Name="Build Specifications" Type="Build"/>
 				</Item>
-				<Item Name="Dependencies" Type="Dependencies"/>
-				<Item Name="Build Specifications" Type="Build"/>
+				<Item Name="Dependencies" Type="Dependencies">
+					<Item Name="vi.lib" Type="Folder">
+						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
+					</Item>
+					<Item Name="FPGA Watchdog - Elapsed Time.vi" Type="VI" URL="../FPGA/FPGA Watchdog - Elapsed Time.vi"/>
+				</Item>
+				<Item Name="Build Specifications" Type="Build">
+					<Item Name="Main FPGA" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
+						<Property Name="AllowEnableRemoval" Type="Bool">false</Property>
+						<Property Name="BuildSpecDecription" Type="Str"></Property>
+						<Property Name="BuildSpecName" Type="Str">Main FPGA</Property>
+						<Property Name="Comp.BitfileName" Type="Str">Raptorv2_FPGATarget2_MainFPGA_uNHDVAQ-+Uo.lvbitx</Property>
+						<Property Name="Comp.CustomXilinxParameters" Type="Str"></Property>
+						<Property Name="Comp.MaxFanout" Type="Int">-1</Property>
+						<Property Name="Comp.RandomSeed" Type="Bool">false</Property>
+						<Property Name="Comp.Version.Build" Type="Int">0</Property>
+						<Property Name="Comp.Version.Fix" Type="Int">0</Property>
+						<Property Name="Comp.Version.Major" Type="Int">1</Property>
+						<Property Name="Comp.Version.Minor" Type="Int">0</Property>
+						<Property Name="Comp.VersionAutoIncrement" Type="Bool">false</Property>
+						<Property Name="Comp.Vivado.EnableMultiThreading" Type="Bool">true</Property>
+						<Property Name="Comp.Vivado.OptDirective" Type="Str"></Property>
+						<Property Name="Comp.Vivado.PhysOptDirective" Type="Str"></Property>
+						<Property Name="Comp.Vivado.PlaceDirective" Type="Str"></Property>
+						<Property Name="Comp.Vivado.RouteDirective" Type="Str"></Property>
+						<Property Name="Comp.Vivado.RunPowerOpt" Type="Bool">false</Property>
+						<Property Name="Comp.Vivado.Strategy" Type="Str">Default</Property>
+						<Property Name="Comp.Xilinx.DesignStrategy" Type="Str">balanced</Property>
+						<Property Name="Comp.Xilinx.MapEffort" Type="Str">high(timing)</Property>
+						<Property Name="Comp.Xilinx.ParEffort" Type="Str">standard</Property>
+						<Property Name="Comp.Xilinx.SynthEffort" Type="Str">normal</Property>
+						<Property Name="Comp.Xilinx.SynthGoal" Type="Str">speed</Property>
+						<Property Name="Comp.Xilinx.UseRecommended" Type="Bool">true</Property>
+						<Property Name="DefaultBuildSpec" Type="Bool">true</Property>
+						<Property Name="DestinationDirectory" Type="Path">FPGA Bitfiles</Property>
+						<Property Name="NI.LV.FPGA.LastCompiledBitfilePath" Type="Path">/C/Users/Kacper/Desktop/Raptorv4/FPGA Bitfiles/Raptorv2_FPGATarget2_MainFPGA_uNHDVAQ-+Uo.lvbitx</Property>
+						<Property Name="NI.LV.FPGA.LastCompiledBitfilePathRelativeToProject" Type="Path">FPGA Bitfiles/Raptorv2_FPGATarget2_MainFPGA_uNHDVAQ-+Uo.lvbitx</Property>
+						<Property Name="ProjectPath" Type="Path">/C/Users/Kacper/Desktop/Raptorv4/Raptor_v_2.lvproj</Property>
+						<Property Name="RelativePath" Type="Bool">true</Property>
+						<Property Name="RunWhenLoaded" Type="Bool">false</Property>
+						<Property Name="SupportDownload" Type="Bool">true</Property>
+						<Property Name="SupportResourceEstimation" Type="Bool">true</Property>
+						<Property Name="TargetName" Type="Str">FPGA Target 2</Property>
+						<Property Name="TopLevelVI" Type="Ref">/sbRIO9636/Chassis/FPGA Target 2/Main FPGA.vi</Property>
+					</Item>
+				</Item>
 			</Item>
 		</Item>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="CANFrameControl.ctl" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANFrameControl.ctl"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="CANCreateInterface.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANCreateInterface.vi"/>
+				<Item Name="CANStatusToError.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANStatusToError.vi"/>
+				<Item Name="CANStart.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANStart.vi"/>
+				<Item Name="Error to Warning.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error to Warning.vi"/>
+				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
+				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
+				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
+				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
+				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
+				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
+				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
+				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
+				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
+				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
+				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
+				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
+				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
+				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
+				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
+				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
+				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
+				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
+				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
+				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
+				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
+				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
+				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
+				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
+				<Item Name="NI_VariableUtilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Variable/NI_VariableUtilities.lvlib"/>
+				<Item Name="CANRead.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANRead.vi"/>
+				<Item Name="CANWrite.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANWrite.vi"/>
+				<Item Name="CANFlush.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANFlush.vi"/>
+				<Item Name="CANStop.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANStop.vi"/>
+				<Item Name="CANCloseInterface.vi" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANCloseInterface.vi"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_Real-Time Target Support.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI_Real-Time Target Support.lvlib"/>
+				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
+				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
+				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
+				<Item Name="NMEA API.lvlib" Type="Library" URL="/&lt;vilib&gt;/robotics/Protocols/NMEA/NMEA API.lvlib"/>
+				<Item Name="NI_PtbyPt.lvlib" Type="Library" URL="/&lt;vilib&gt;/ptbypt/NI_PtbyPt.lvlib"/>
+				<Item Name="ni_emb.dll" Type="Document" URL="/&lt;vilib&gt;/ni_emb.dll"/>
+				<Item Name="ni_tagger_lv_FlushAllConnections.vi" Type="VI" URL="/&lt;vilib&gt;/variable/tagger/ni_tagger_lv_FlushAllConnections.vi"/>
+				<Item Name="NI_Robotics Utilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/robotics/Utilities/NI_Robotics Utilities.lvlib"/>
+				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
+			</Item>
+			<Item Name="rioembeddedcanlvapi.dll" Type="Document" URL="rioembeddedcanlvapi.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="ramki konfiguracyjne.ctl" Type="VI" URL="../PC/ramki konfiguracyjne.ctl"/>
+			<Item Name="RIO CAN Frame to Table.vi" Type="VI" URL="../RT/RIO CAN Frame to Table.vi"/>
+			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="nitaglv.dll" Type="Document" URL="nitaglv.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="My Real-Time Application" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
+			<Item Name="RaptorRT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{DF8CDF72-D6CF-4784-9735-57F403BB37F3}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{CD458B58-5312-4CF0-9EF7-CA7285FC44A3}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{024174F5-0F32-4E3A-889A-606D63134884}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">My Real-Time Application</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">RaptorRT</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/NI_AB_TARGETNAME/My Real-Time Application</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/NI_AB_TARGETNAME/RaptorRT</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{CF04CD71-2B56-409B-A5A4-FBE2A89B1101}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/c/ni-rt/startup</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/c/ni-rt/startup/startup.rtexe</Property>
@@ -3012,17 +3180,17 @@ AddOutputFilter chunkFilter
 				<Property Name="Destination[1].path" Type="Path">/c/ni-rt/startup/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{B56D4359-CC6F-4E7D-B39D-68B63724CA5C}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{AD37EF14-1E4F-411A-B95A-3F5F15EA5E94}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref"></Property>
+				<Property Name="Source[1].itemID" Type="Ref">/sbRIO9636/Main RT.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">My Real-Time Application</Property>
-				<Property Name="TgtF_internalName" Type="Str">My Real-Time Application</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">RaptorRT</Property>
+				<Property Name="TgtF_internalName" Type="Str">RaptorRT</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2016 </Property>
-				<Property Name="TgtF_productName" Type="Str">My Real-Time Application</Property>
+				<Property Name="TgtF_productName" Type="Str">RaptorRT</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{D091582E-1F44-469E-A98B-8CE7311E9379}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
 			</Item>
