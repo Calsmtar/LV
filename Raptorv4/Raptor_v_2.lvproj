@@ -117,22 +117,31 @@
 			<Item Name="lv-ros-bridge_WRITE.vi" Type="VI" URL="../PC/lv-ros-bridge-master/lv-ros-bridge_WRITE.vi"/>
 			<Item Name="lv-ros-bridge_READ.vi" Type="VI" URL="../PC/lv-ros-bridge-master/lv-ros-bridge_READ.vi"/>
 			<Item Name="test ros webs handshake.vi" Type="VI" URL="../test ros webs handshake.vi"/>
+			<Item Name="ROS Init.vi" Type="VI" URL="../PC/ROS/ROS Init.vi"/>
+			<Item Name="Control  rossss.ctl" Type="VI" URL="../Control  rossss.ctl"/>
+			<Item Name="ROS close.vi" Type="VI" URL="../PC/ROS/ROS close.vi"/>
+			<Item Name="ROS send.vi" Type="VI" URL="../PC/ROS/ROS send.vi"/>
 		</Item>
 		<Item Name="Queues" Type="Folder">
 			<Item Name="Queue add.vi" Type="VI" URL="../PC/Queue add.vi"/>
 			<Item Name="Queue check.vi" Type="VI" URL="../PC/Queue check.vi"/>
 			<Item Name="Queue remove.vi" Type="VI" URL="../PC/Queue remove.vi"/>
 			<Item Name="Queue destroy.vi" Type="VI" URL="../PC/Queue destroy.vi"/>
+			<Item Name="Queue add udp in.vi" Type="VI" URL="../PC/Queue add udp in.vi"/>
 			<Item Name="Queue init.vi" Type="VI" URL="../PC/Queue init.vi"/>
 		</Item>
 		<Item Name="pierdoly" Type="Folder">
 			<Item Name="testy 3dconnectionn.vi" Type="VI" URL="../PC/testy 3dconnectionn.vi"/>
 			<Item Name="testy 3dconnection.vi" Type="VI" URL="../PC/testy 3dconnection.vi"/>
+			<Item Name="set time on rio.vi" Type="VI" URL="../SBRIO100/set time on rio.vi"/>
 		</Item>
 		<Item Name="Main PC Station.vi" Type="VI" URL="../PC/Main PC Station.vi"/>
-		<Item Name="set time on rio.vi" Type="VI" URL="../SBRIO100/set time on rio.vi"/>
 		<Item Name="WebSockets.lvlib" Type="Library" URL="/&lt;vilib&gt;/Intelligent Energy/WebSockets API/WebSockets/WebSockets.lvlib"/>
-		<Item Name="Queue add udp in.vi" Type="VI" URL="../PC/Queue add udp in.vi"/>
+		<Item Name="main_mapa_dane_GPS_wspoldzielone.vi" Type="VI" URL="../../Aplikacja off-line-20170305T114419Z-001/Aplikacja off-line/main_mapa_dane_GPS_wspoldzielone.vi"/>
+		<Item Name="xsens MTi-G.lvlib" Type="Library" URL="/&lt;instrlib&gt;/xsens_mti-g/xsens MTi-G.lvlib"/>
+		<Item Name="xens MTi-G Single Read - Orientation.vi" Type="VI" URL="../../../Downloads/xsens_mti_g (1)/xsens_mti-g/Examples/xens MTi-G Single Read - Orientation.vi"/>
+		<Item Name="LabVIEWWrapper_PassingDataSampleDLL.lvlib" Type="Library" URL="../../../Downloads/LabVIEWWrapper/LabVIEWWrapper/LabVIEWWrapper_PassingDataSampleDLL.lvlib"/>
+		<Item Name="IEE 754 binary to SGL.vi" Type="VI" URL="../PC/IEE 754 binary to SGL.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
@@ -208,7 +217,6 @@
 				<Item Name="Directory of Top Level VI.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Directory of Top Level VI.vi"/>
 				<Item Name="Check Path.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Path.vi"/>
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
-				<Item Name="Read JPEG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Read JPEG File.vi"/>
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
 				<Item Name="_ROSDefinition.vi" Type="VI" URL="/&lt;vilib&gt;/Tufts CEEO ROS for LabVIEW Software/ROS/Code/_ROSDefinition.vi"/>
@@ -467,6 +475,26 @@
 				<Item Name="parse_int32.vi" Type="VI" URL="/&lt;vilib&gt;/Tufts CEEO ROS for LabVIEW Software/ROS/MessageParsing/std_msgs/parse_int32.vi"/>
 				<Item Name="NI_3D Picture Control.lvlib" Type="Library" URL="/&lt;vilib&gt;/picture/3D Picture Control/NI_3D Picture Control.lvlib"/>
 				<Item Name="nisyscfg.lvlib" Type="Library" URL="/&lt;vilib&gt;/nisyscfg/nisyscfg.lvlib"/>
+				<Item Name="Read JPEG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Read JPEG File.vi"/>
+				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
+				<Item Name="LVStringsAndValuesArrayTypeDef_U16.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVStringsAndValuesArrayTypeDef_U16.ctl"/>
+				<Item Name="Draw Point.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Point.vi"/>
+				<Item Name="Draw Circle by Radius.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Draw Circle by Radius.vi"/>
+				<Item Name="Draw Arc.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Arc.vi"/>
+				<Item Name="Calc Scale Specs.vi" Type="VI" URL="/&lt;vilib&gt;/picture/scale.llb/Calc Scale Specs.vi"/>
+				<Item Name="Calc Increment.vi" Type="VI" URL="/&lt;vilib&gt;/picture/scale.llb/Calc Increment.vi"/>
+				<Item Name="Num To Text.vi" Type="VI" URL="/&lt;vilib&gt;/picture/scale.llb/Num To Text.vi"/>
+				<Item Name="Increment Filter.vi" Type="VI" URL="/&lt;vilib&gt;/picture/scale.llb/Increment Filter.vi"/>
+				<Item Name="Map Setup.vi" Type="VI" URL="/&lt;vilib&gt;/picture/scale.llb/Map Setup.vi"/>
+				<Item Name="Map Value to Pixel.vi" Type="VI" URL="/&lt;vilib&gt;/picture/scale.llb/Map Value to Pixel.vi"/>
+				<Item Name="Draw Scale.vi" Type="VI" URL="/&lt;vilib&gt;/picture/scale.llb/Draw Scale.vi"/>
+				<Item Name="Move Pen.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Move Pen.vi"/>
+				<Item Name="Draw Line.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Line.vi"/>
+				<Item Name="Intialize Keyboard.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Intialize Keyboard.vi"/>
+				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
+				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
+				<Item Name="DSDisposePtr.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/importsl/DSDisposePtr.vi"/>
+				<Item Name="DSNewPtr.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/importsl/DSNewPtr.vi"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Sick LMS 2XX Series.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/Sick LMS 2XX Series/HAIOL/Sick LMS 2XX Series.lvclass"/>
@@ -495,6 +523,11 @@
 			<Item Name="Digital Waveform Chart maker.vi" Type="VI" URL="../../edge det/Digital Waveform Chart maker.vi"/>
 			<Item Name="Untitled 4 (SubVI).vi" Type="VI" URL="../PC/Untitled 4 (SubVI).vi"/>
 			<Item Name="Message Cluster.ctl" Type="VI" URL="../../../Documents/LabVIEW Data/Untitled Project 2/support/Message Queue/Message Cluster.ctl"/>
+			<Item Name="Moduł map offline.lvlib" Type="Library" URL="../../Aplikacja off-line-20170305T114419Z-001/Aplikacja off-line/Moduł map offline.lvlib"/>
+			<Item Name="Kinematyka prosta.vi" Type="VI" URL="../../Aplikacja off-line-20170305T114419Z-001/Aplikacja off-line/Pliki projektu/Analiza danych z robota/Kinematyka prosta.vi"/>
+			<Item Name="lvimptsl.dll" Type="Document" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2009/resource/lvimptsl.dll"/>
+			<Item Name="lvimptsl.dll" Type="Document" URL="/../Program Files (x86)/National Instruments/LabVIEW 2009/resource/lvimptsl.dll"/>
+			<Item Name="IEEE 754 Boolean_Array_to_SGL_LV2012_NI Verified.vi" Type="VI" URL="../../../Downloads/IEEE 754 Boolean_Array_to_SGL_LV2012_NI Verified.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="My Zip File" Type="Zip File">
@@ -657,6 +690,7 @@ DirectoryIndex index.htm
 			<Item Name="can_speed.vi" Type="VI" URL="../RT/can_speed.vi"/>
 			<Item Name="Auto Nastawy.vi" Type="VI" URL="../RT/Auto Nastawy.vi"/>
 		</Item>
+		<Item Name="write.vi" Type="VI" URL="../PC/ROS/write.vi"/>
 		<Item Name="FPGA.lvlib" Type="Library" URL="../FPGA/FPGA.lvlib"/>
 		<Item Name="Main RT.vi" Type="VI" URL="../RT/Main RT.vi"/>
 		<Item Name="Chassis" Type="sbRIO Chassis">
@@ -1789,6 +1823,7 @@ DirectoryIndex index.htm
 		</Item>
 		<Item Name="Main.html" Type="Document" URL="../Main.html"/>
 		<Item Name="to variant.vi" Type="VI" URL="../RT/to variant.vi"/>
+		<Item Name="from var.vi" Type="VI" URL="../RT/from var.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="CANFrameControl.ctl" Type="VI" URL="/&lt;vilib&gt;/RioEmbeddedCAN/RioEmbeddedCAN.llb/CANFrameControl.ctl"/>
@@ -1844,6 +1879,7 @@ DirectoryIndex index.htm
 				<Item Name="ni_tagger_lv_FlushAllConnections.vi" Type="VI" URL="/&lt;vilib&gt;/variable/tagger/ni_tagger_lv_FlushAllConnections.vi"/>
 				<Item Name="NI_Robotics Utilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/robotics/Utilities/NI_Robotics Utilities.lvlib"/>
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
+				<Item Name="WebSockets.lvlib" Type="Library" URL="/&lt;vilib&gt;/Intelligent Energy/WebSockets API/WebSockets/WebSockets.lvlib"/>
 			</Item>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -1857,6 +1893,10 @@ DirectoryIndex index.htm
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="QMH Fundamentals - Message Cluster.ctl" Type="VI" URL="../PC/QMH Fundamentals - Message Cluster.ctl"/>
+			<Item Name="ROS Init.vi" Type="VI" URL="../PC/ROS/ROS Init.vi"/>
+			<Item Name="ROS close.vi" Type="VI" URL="../PC/ROS/ROS close.vi"/>
+			<Item Name="ROS send.vi" Type="VI" URL="../PC/ROS/ROS send.vi"/>
+			<Item Name="Control  rossss.ctl" Type="VI" URL="../Control  rossss.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="RoboRaptor" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -1904,6 +1944,50 @@ DirectoryIndex index.htm
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2016 </Property>
 				<Property Name="TgtF_productName" Type="Str">RoboRaptor</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{8D9981F0-C792-4D15-B758-7A0253850CA0}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
+			</Item>
+			<Item Name="My Real-Time Application" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{1845E68C-C87A-451F-9461-975CD31AE311}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{FCEF7DFA-7E10-4DF0-B13B-94C732EA3209}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{D4B79D67-5F9C-4581-B99A-7693E706CB52}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">My Real-Time Application</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/NI_AB_TARGETNAME/My Real-Time Application</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{E84D9957-50AD-4F9D-9F0E-B85A0A9E93DC}</Property>
+				<Property Name="Bld_targetDestDir" Type="Path">/c/ni-rt/startup</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
+				<Property Name="Destination[0].path" Type="Path">/c/ni-rt/startup/startup.rtexe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/c/ni-rt/startup/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E2424D27-E5CD-4BE2-A3E7-68C603993333}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/NI-sbRIO9636-01A93195/Main RT.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/NI-sbRIO9636-01A93195/Main.html</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">My Real-Time Application</Property>
+				<Property Name="TgtF_internalName" Type="Str">My Real-Time Application</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 </Property>
+				<Property Name="TgtF_productName" Type="Str">My Real-Time Application</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{12CAD601-3620-43FA-B1FF-7212B17537FE}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
 			</Item>
 		</Item>
