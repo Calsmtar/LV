@@ -136,12 +136,12 @@
 			<Item Name="set time on rio.vi" Type="VI" URL="../SBRIO100/set time on rio.vi"/>
 		</Item>
 		<Item Name="Main PC Station.vi" Type="VI" URL="../PC/Main PC Station.vi"/>
-		<Item Name="WebSockets.lvlib" Type="Library" URL="/&lt;vilib&gt;/Intelligent Energy/WebSockets API/WebSockets/WebSockets.lvlib"/>
 		<Item Name="main_mapa_dane_GPS_wspoldzielone.vi" Type="VI" URL="../../Aplikacja off-line-20170305T114419Z-001/Aplikacja off-line/main_mapa_dane_GPS_wspoldzielone.vi"/>
-		<Item Name="xsens MTi-G.lvlib" Type="Library" URL="/&lt;instrlib&gt;/xsens_mti-g/xsens MTi-G.lvlib"/>
 		<Item Name="xens MTi-G Single Read - Orientation.vi" Type="VI" URL="../../../Downloads/xsens_mti_g (1)/xsens_mti-g/Examples/xens MTi-G Single Read - Orientation.vi"/>
-		<Item Name="LabVIEWWrapper_PassingDataSampleDLL.lvlib" Type="Library" URL="../../../Downloads/LabVIEWWrapper/LabVIEWWrapper/LabVIEWWrapper_PassingDataSampleDLL.lvlib"/>
 		<Item Name="IEE 754 binary to SGL.vi" Type="VI" URL="../PC/IEE 754 binary to SGL.vi"/>
+		<Item Name="WebSockets.lvlib" Type="Library" URL="/&lt;vilib&gt;/Intelligent Energy/WebSockets API/WebSockets/WebSockets.lvlib"/>
+		<Item Name="xsens MTi-G.lvlib" Type="Library" URL="/&lt;instrlib&gt;/xsens_mti-g/xsens MTi-G.lvlib"/>
+		<Item Name="LabVIEWWrapper_PassingDataSampleDLL.lvlib" Type="Library" URL="../../../Downloads/LabVIEWWrapper/LabVIEWWrapper/LabVIEWWrapper_PassingDataSampleDLL.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
@@ -526,8 +526,8 @@
 			<Item Name="Moduł map offline.lvlib" Type="Library" URL="../../Aplikacja off-line-20170305T114419Z-001/Aplikacja off-line/Moduł map offline.lvlib"/>
 			<Item Name="Kinematyka prosta.vi" Type="VI" URL="../../Aplikacja off-line-20170305T114419Z-001/Aplikacja off-line/Pliki projektu/Analiza danych z robota/Kinematyka prosta.vi"/>
 			<Item Name="lvimptsl.dll" Type="Document" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2009/resource/lvimptsl.dll"/>
-			<Item Name="lvimptsl.dll" Type="Document" URL="/../Program Files (x86)/National Instruments/LabVIEW 2009/resource/lvimptsl.dll"/>
 			<Item Name="IEEE 754 Boolean_Array_to_SGL_LV2012_NI Verified.vi" Type="VI" URL="../../../Downloads/IEEE 754 Boolean_Array_to_SGL_LV2012_NI Verified.vi"/>
+			<Item Name="lvimptsl.dll" Type="Document" URL="/../Program Files (x86)/National Instruments/LabVIEW 2009/resource/lvimptsl.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="My Zip File" Type="Zip File">
