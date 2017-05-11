@@ -1,5 +1,5 @@
 [ProjectWindow_Data]
-ProjectExplorer.ClassicPosition[String] = "33,10,718,376"
+ProjectExplorer.ClassicPosition[String] = "37,10,722,376"
 
 [AB_Cache_{6BC759A4-23D5-4BD4-941D-76AB0AAF0D20}]
 Cache_Path[Path] Line0001 = "/C/Users/Kacper/AppData/Local/Temp/AB_Cache_{6BC75"
@@ -17,14 +17,6 @@ Cache_Path[Path] Line0002 = "4F5-0F32-4E3A-889A-606D63134884}.txt"
 Cache_Path[Path] Line0001 = "/C/Users/Kacper/AppData/Local/Temp/AB_Cache_{CF04C"
 Cache_Path[Path] Line0002 = "D71-2B56-409B-A5A4-FBE2A89B1101}.txt"
 
-[AB_Cache_{4EB6B96F-677D-4739-84C6-8A83B39486FC}]
-Cache_Path[Path] Line0001 = "/C/Users/Kacper/AppData/Local/Temp/AB_Cache_{4EB6B"
-Cache_Path[Path] Line0002 = "96F-677D-4739-84C6-8A83B39486FC}.txt"
-
-[AB_Cache_{8BCD239C-970A-4D2A-A9D4-001A9CA102D5}]
-Cache_Path[Path] Line0001 = "/C/Users/Kacper/AppData/Local/Temp/AB_Cache_{8BCD2"
-Cache_Path[Path] Line0002 = "39C-970A-4D2A-A9D4-001A9CA102D5}.txt"
-
 [AB_Cache_{D4B79D67-5F9C-4581-B99A-7693E706CB52}]
 Cache_Path[Path] Line0001 = "/C/Users/Kacper/AppData/Local/Temp/AB_Cache_{D4B79"
 Cache_Path[Path] Line0002 = "D67-5F9C-4581-B99A-7693E706CB52}.txt"
@@ -32,4 +24,12 @@ Cache_Path[Path] Line0002 = "D67-5F9C-4581-B99A-7693E706CB52}.txt"
 [AB_Cache_{E84D9957-50AD-4F9D-9F0E-B85A0A9E93DC}]
 Cache_Path[Path] Line0001 = "/C/Users/Kacper/AppData/Local/Temp/AB_Cache_{E84D9"
 Cache_Path[Path] Line0002 = "957-50AD-4F9D-9F0E-B85A0A9E93DC}.txt"
+
+[AB_Cache_{4EB6B96F-677D-4739-84C6-8A83B39486FC}]
+Cache_Path[Path] Line0001 = "/C/Users/Kacper/AppData/Local/Temp/AB_Cache_{4EB6B"
+Cache_Path[Path] Line0002 = "96F-677D-4739-84C6-8A83B39486FC}.txt"
+
+[AB_Cache_{8BCD239C-970A-4D2A-A9D4-001A9CA102D5}]
+Cache_Path[Path] Line0001 = "/C/Users/Kacper/AppData/Local/Temp/AB_Cache_{8BCD2"
+Cache_Path[Path] Line0002 = "39C-970A-4D2A-A9D4-001A9CA102D5}.txt"
 
